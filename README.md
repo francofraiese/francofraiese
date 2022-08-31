@@ -6,7 +6,7 @@ from Argentina
 &emsp;
 &emsp;
 
-<h2>	:keyboard::computer_mouse: Programming languages, technologies and tools :wrench::gear:</h2>
+## :keyboard::computer_mouse: Programming languages, technologies and tools :wrench::gear:
 <p align="center" gap=10px>
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
   &emsp;
@@ -42,9 +42,12 @@ from Argentina
   <img width=90px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/Mysql.png">
 </p>
 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
   
-  
-## :pushpin: My proyects
+## :blue_book: My proyects
 
 <p>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
