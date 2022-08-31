@@ -83,6 +83,8 @@ from Argentina
 &emsp;
 &emsp;
 
+## Contact and others
+
 <h1 align="center">
 <img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png">
 &ensp;
@@ -91,4 +93,8 @@ from Argentina
 <img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/linkedin.png">
 &ensp;
 <a href="https://francofraiese.vercel.app">Linkedin</a>
+&emsp;
+<a href="mailto:fraancofraiese@gmail.com" >
+<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/gmail.png">
+</a>
 </h1>
