@@ -1,4 +1,4 @@
-<h1 size=70px align="center">
+<h1 size=150px align="center">
 💻 Full Stack Developer 💻 
 from Argentina
 <img width="45px" height="25px" src="https://github.com/francofraiese/francofraiese/blob/main/images/argentina.png"/>
