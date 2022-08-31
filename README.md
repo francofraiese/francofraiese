@@ -1,6 +1,6 @@
 <h1 size="30px" align="center">
 💻 Full Stack Developer 💻 
-<img width="60px" height="30px" src="https://github.com/francofraiese/francofraiese/tree/main/images/argentina.png"/>
+<img width="60px" height="30px" src="https://github.com/francofraiese/francofraiese/blob/main/images/argentina.png"/>
 from Argentina
 </h1>
 
