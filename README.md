@@ -62,7 +62,7 @@ either working or studying on my own.
 &emsp;
 &emsp;
   
-## :blue_book: My proyects
+## :blue_book: My projects
 &emsp;
 ### FRIKIPEDIA
 &emsp;
