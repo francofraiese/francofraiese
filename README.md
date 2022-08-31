@@ -11,9 +11,9 @@ from Argentina
 &ensp;
 
 <h3 align="center">
-Hello world! I'm  Franco and i'm looking for an opportunity to implement
-all the knowledge i got in the bootcamp and developing my final projects.
-My intention is to keep learning and practicing every moment i can, 
+Hello world! I'm  Franco and i'm looking for an opportunity to implement<br/>
+all the knowledge i got in the bootcamp and developing my final projects.<br/>
+My intention is to keep learning and practicing every moment i can, <br/>
 either working or studying on my own.
 </h3>
 &emsp;
