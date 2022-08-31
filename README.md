@@ -5,19 +5,19 @@ from Argentina
 </h1>
 
 ## :star: Programming languages, technologies and tools
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/TS.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/react.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/redux.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/CSS3.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/HTML.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/TS.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/react.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/redux.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/CSS3.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/HTML.png">
   <br/>
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/NODE.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/postgres.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/sequelize.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/mysql.png">
-  <img src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/NODE.png">
+  <img width=80px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/postgres.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/sequelize.png">
+  <img width=30px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/Mysql.png">
+  <img width=20px height=20px src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png">
 
   
   
