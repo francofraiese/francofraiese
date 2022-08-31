@@ -1,6 +1,6 @@
 <h2 align="center">
 💻 Full Stack Developer 💻 
-<br/>from Argentina<code><img width="10%" src="https://github.com/francofraiese/francofraiese/tree/main/images/argentina.svg"></code>
+<p>from Argentina<code><img width="10%" src="https://github.com/francofraiese/francofraiese/tree/main/images/argentina.png"></code></p>
 </h2>
 
 &nbsp;&nbsp;
