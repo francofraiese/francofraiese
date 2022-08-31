@@ -5,17 +5,22 @@ from Argentina
 </h1>
 &nbsp;
 &nbsp;
-## :star: Programming languages, technologies and tools
+<h2>	:keyboard::computer_mouse: Programming languages, technologies and tools :wrench::gear:</h2>
 <p align="center" gap=10px>
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
   &emsp;
+  &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/TS.png">
+  &emsp;
   &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/react.png">
   &emsp;
+  &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/redux.png">
   &emsp;
+  &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/CSS3.png">
+  &emsp;
   &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/HTML.png">
 </p>
@@ -23,15 +28,17 @@ from Argentina
 <p align="center">
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/NODE.png">
   &emsp;
-  <img width=170px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
+  &emsp;
+  <img width=180px height=65px src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
+  &emsp;
   &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/postgres.png">
   &emsp;
+  &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/sequelize.png">
   &emsp;
-  <img width=90px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/Mysql.png">
   &emsp;
-  <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png">
+  <img width=90px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/Mysql.png">
 </p>
 
   
