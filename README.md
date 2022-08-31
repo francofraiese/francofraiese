@@ -83,10 +83,9 @@ from Argentina
 &emsp;
 &emsp;
 
-<h1 align= center u>
+<h1 align="center">
 <img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png">
 &emsp;
 &emsp;
-
 <a href="https://francofraiese.vercel.app">Portfolio</a>
-</h1 align= center>
+</h1>
