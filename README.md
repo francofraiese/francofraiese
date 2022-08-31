@@ -55,27 +55,33 @@ from Argentina
 &emsp;
 
 <p align="center">
-<img width=350px height=230px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia.png">
+<img width=370px height=280px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia.png">
   &emsp;
-<img width=350px height=230px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia-home.png">
+<img width=370px height=280px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia-home.png">
 </p>
   &emsp;
 
-<h3>Frikipedia is a SPA, developed in JavaScrip. I used CSS, React and Redux on Front-end dev and NodeJS, Express, Sequelize and PostgreSQL on Back-end and Database. <br/>In this page you can search any game and read about his platforms, genres, description, release date and rating. If you don't found an specific game, you have a create form to load the game in our database.</h3>
+<h3>Frikipedia is a SPA, developed in JavaScript. I used CSS, React and Redux on Front-end dev and NodeJS, Express, Sequelize and PostgreSQL on Back-end and Database. <br/>In this page you can search any game and read about his platforms, genres, description, release date and rating. If you don't found an specific game, you have a create form to load the game in our database.</h3>
 
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
+&emsp;
+&emsp;
+
+### REwork
+&emsp;
+
+<p align="center">
+<img width=370px height=280px src="https://github.com/francofraiese/francofraiese/blob/main/images/rework.png">
+  &emsp;
+<img width=370px height=280px src="https://github.com/francofraiese/francofraiese/blob/main/images/rework-home.png">
 </p>
+  &emsp;
 
-<h3>Pedidotopia</h3>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
-</p> 
-&nbsp;
+<h3>Rework is a social-working network, developed in TypeScript. We used CSS, React and Redux-toolkit on Front-end dev and NodeJS, Express, Sequelize and PostgreSQL on Back-end and Database. <br/>In this platform you can create an account as Client or Freelancer and, depending on your choice, you will be able to do different things.</h3>
+<h3>As a Client, you could post an offer and make a contract with any freelancer who has applied in your offer. </h3>
+<h3>As a Freelancer, you could upload your portfolio and select your profession and skills. You also can apply to an offer, sending a proposal with your salary, the time it will take you to do the job and a short description of the job.</h3>
+
+&emsp;
+&emsp;
 
 ## :paperclip: How to reach me:
 <span >
