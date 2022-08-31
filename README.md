@@ -52,12 +52,18 @@ from Argentina
 ## :blue_book: My proyects
 &emsp;
 ### FRIKIPEDIA
+&emsp;
+
 <p align="center">
 <img width=275px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia.png">
+  &emsp;
+  &emsp;
+
 <img width=275px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia-home.png">
 </p>
-<h3>Frikipedia is a SPA, developed in JavaScrip. I used CSS, React and Redux on Front-end dev and NodeJS, Express, Sequelize and PostgreSQL on Back-end and Database.</h3>
-<h3>In this page you can search any game and read about his platforms, genres, description, release date and rating. If you don't found an specific game, you have a create form to load the game in our database.</h3>
+  &emsp;
+
+<h3>Frikipedia is a SPA, developed in JavaScrip. I used CSS, React and Redux on Front-end dev and NodeJS, Express, Sequelize and PostgreSQL on Back-end and Database. <br/>In this page you can search any game and read about his platforms, genres, description, release date and rating. If you don't found an specific game, you have a create form to load the game in our database.</h3>
 
 <p>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
