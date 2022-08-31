@@ -5,13 +5,16 @@ from Argentina
 </h1>
 &emsp;
 &emsp;
+
 ## :raising_hand_man: About me
+
 &ensp;
+
 <h3 align="center">
-Hello world! I'm  Franco and i'm looking for an opportunity 
-Busco la oportunidad de poner en práctica todos los conocimientos que
-adquirí como programador, siempre con la intención de seguir mejorando
-en las tecnologías que conozco y dándole tambien lugar a nuevas.
+Hello world! I'm  Franco and i'm looking for an opportunity to implement
+all the knowledge i got in the bootcamp and developing my final projects.
+My intention is to keep learning and practicing every moment i can, 
+either working or studying on my own.
 </h3>
 &emsp;
 &emsp;
