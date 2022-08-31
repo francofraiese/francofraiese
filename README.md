@@ -6,7 +6,9 @@ from Argentina
 &emsp;
 &emsp;
 
-## :keyboard::computer_mouse: Programming languages, technologies and tools :wrench::gear:
+## :keyboard:Programming languages, technologies and tools :wrench:
+&emsp;
+
 <p align="center" gap=10px>
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
   &emsp;
@@ -30,9 +32,6 @@ from Argentina
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/NODE.png">
   &emsp;
   &emsp;
-  <img width=180px height=65px src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
-  &emsp;
-  &emsp;
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/postgres.png">
   &emsp;
   &emsp;
@@ -40,6 +39,9 @@ from Argentina
   &emsp;
   &emsp;
   <img width=90px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/Mysql.png">
+  &emsp;
+  &emsp;
+  <img width=180px height=55px src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
 </p>
 
 &emsp;
@@ -48,12 +50,13 @@ from Argentina
 &emsp;
   
 ## :blue_book: My proyects
-
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+&emsp;
+<h2>FRIKIPEDIA</h2>
+<p align="center">
+<img width=275px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia.png">
+<img width=275px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia-home.png">
 </p>
+<h3>Frikipedia is a SPA, developed in JavaScrip. I used CSS, React and Redux on Front-end dev and NodeJS, Express, Sequelize and PostgreSQL on Back-end and Database.</h3>
 <p>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
