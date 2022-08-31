@@ -87,18 +87,21 @@ from Argentina
 
 <h1 align="center">
 <a href="https://francofraiese.vercel.app">
-<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png">
+<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/logo.png"></a>
 &ensp;
+<a href="mailto:fraancofraiese@gmail.com" >
 Portfolio</a>
 &emsp;
 <a href="https://francofraiese.vercel.app">
-<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/linkedin.png">
+<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/linkedin.png"></a>
 &ensp;
+<a href="mailto:fraancofraiese@gmail.com" >
 Linkedin</a>
 &emsp;
 <a href="mailto:fraancofraiese@gmail.com" >
-<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/gmail.png">
+<img width=40px height=40px src="https://github.com/francofraiese/francofraiese/blob/main/images/gmail.png"></a>
 &ensp;
+<a href="mailto:fraancofraiese@gmail.com" >
 Email
 </a>
 </h1>
