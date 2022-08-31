@@ -1,11 +1,11 @@
-<h1 size="30px" align="center">
+<h1 size=70px align="center">
 💻 Full Stack Developer 💻 
 from Argentina
 <img width="45px" height="25px" src="https://github.com/francofraiese/francofraiese/blob/main/images/argentina.png"/>
 </h1>
 
 ## :star: Programming languages, technologies and tools
-<p>
+<p align="center" gap=10px>
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/TS.png">
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/react.png">
@@ -14,7 +14,7 @@ from Argentina
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/HTML.png">
 </p>
 
-<p>
+<p align="center">
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/NODE.png">
   <img width=170px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/express.png">
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/postgres.png">
