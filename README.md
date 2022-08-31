@@ -1,9 +1,8 @@
-<h2 align="center">
+<h1 size="30px" align="center">
 💻 Full Stack Developer 💻 
-<p>from Argentina<code><img width="10%" src="https://github.com/francofraiese/francofraiese/tree/main/images/argentina.png"></code></p>
-</h2>
-
-&nbsp;&nbsp;
+from Argentina
+</h1>
+<code><img width="100px" height="50px" src="https://github.com/francofraiese/francofraiese/tree/main/images/argentina.png"/></code>
 
 
 ## :star: Programming languages, technologies and tools
