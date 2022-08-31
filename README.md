@@ -1,5 +1,5 @@
 <h2 align="center">
-💻 Full Stack Developer 💻 from Argentina :bandera-ar:
+💻 Full Stack Developer 💻 from Argentina 🌎🇦🇷
 </h2>
 
 &nbsp;&nbsp;
