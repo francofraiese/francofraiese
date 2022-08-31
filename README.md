@@ -55,11 +55,11 @@ from Argentina
 &emsp;
 
 <p align="center">
-<img width=275px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia.png">
+<img width=400px height=230px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia.png">
   &emsp;
   &emsp;
 
-<img width=275px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia-home.png">
+<img width=400px height=130px src="https://github.com/francofraiese/francofraiese/blob/main/images/frikipedia-home.png">
 </p>
   &emsp;
 
