@@ -1,10 +1,18 @@
-<h1 size=70px align="center">
+<h1 font-size=70px align="center">
 💻 Full Stack Developer 💻 
 from Argentina
 <img width="45px" height="25px" src="https://github.com/francofraiese/francofraiese/blob/main/images/argentina.png"/>
 </h1>
+<span>a</span>
 &nbsp;
+<span>a</span>
+&emsp;
+<span>a</span>
+&ensp;
+<span>a</span>
 &nbsp;
+<span>a</span>
+
 <h2>	:keyboard::computer_mouse: Programming languages, technologies and tools :wrench::gear:</h2>
 <p align="center" gap=10px>
   <img width=70px height=70px src="https://github.com/francofraiese/francofraiese/blob/main/images/JS.png">
