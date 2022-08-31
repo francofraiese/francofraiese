@@ -7,7 +7,7 @@ from Argentina
 &emsp;
 ## :raising_hand_man: About me
 &ensp;
-<h3 align="center>
+<h3 align="center">
 Hello world! I'm  Franco and i'm looking for an opportunity 
 Busco la oportunidad de poner en práctica todos los conocimientos que
 adquirí como programador, siempre con la intención de seguir mejorando
